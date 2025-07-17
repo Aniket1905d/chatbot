@@ -1,0 +1,273 @@
+2025-07-17 05:50:40,664 - chatbot_core - ERROR - GROQ_API_KEY environment variable is required
+2025-07-17 05:50:40,664 - app - ERROR - Failed to initialize chatbot: Missing GROQ_API_KEY environment variable
+2025-07-17 06:04:08,794 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:04:49,090 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:04:49,649 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:04:50,118 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:05:04,248 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:05:04,812 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:05:05,182 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:05:56,301 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:05:58,327 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:06:36,279 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:06:37,081 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:06:37,459 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:07:14,234 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:07:14,801 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:07:15,219 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:10:53,635 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:10:54,336 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:10:55,074 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:12:13,625 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:12:14,100 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:12:14,549 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:16:42,509 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:17:09,662 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:17:33,035 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:17:59,652 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:18:35,861 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:18:37,301 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:18:46,326 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:18:46,785 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:18:47,116 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:12,350 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:13,084 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:20,857 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:40,054 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:40,570 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:19:40,941 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:23:44,488 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:23:45,114 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:23:45,733 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:24:28,513 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:24:29,067 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:24:29,445 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:26:03,429 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:26:12,565 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:26:29,040 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:26:46,112 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:26:53,214 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:27:15,599 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:17,515 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:30,193 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:30,653 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:30,987 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:42,139 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:42,626 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:27:42,990 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:28,838 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:29,592 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:34,277 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:49,585 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:50,105 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:28:50,477 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:00,108 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:00,592 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:00,921 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:08,827 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:09,439 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:09,871 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:46,179 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:47,067 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:29:54,404 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:19,374 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:19,912 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:20,287 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:28,821 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:29,452 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:30:29,863 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:39:56,186 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:08,179 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:17,289 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:27,428 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:34,458 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:43,523 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:40:51,158 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:41:26,361 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:42:52,963 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:42:54,765 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:01,690 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:02,210 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:02,560 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:12,988 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:13,692 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:16,826 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:17,210 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:48,222 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:43:48,892 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:44:52,617 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:44:52,824 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:45:13,829 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:45:14,171 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:45:21,979 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:45:22,757 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:45:22,760 - chatbot_core - INFO - Problem detection result: {'has_multiple_problems': True, 'problems': [{'problem_text': 'VS Code is experiencing issues', 'context': 'no specific symptoms mentioned', 'problem_id': 'problem_1', 'current_user_message': 'vs code is having some issue'}, {'problem_text': 'PC is not working', 'context': 'no specific symptoms mentioned', 'problem_id': 'problem_2', 'current_user_message': 'pc is not work'}], 'separation_reasoning': 'Separated into two distinct problems as they affect different systems/components (VS Code and PC) and have different root causes.', 'original_message': 'vs code is having some issue and pc is not work'}
+2025-07-17 06:45:22,760 - chatbot_core - INFO - Multiple problems detected: 2 problems
+2025-07-17 06:46:10,187 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:10,526 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:13,264 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:13,588 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:29,501 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:29,831 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:35,454 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:35,875 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:40,873 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:41,518 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:44,065 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:44,168 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:57,248 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:46:57,430 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:10,429 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:10,584 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:17,399 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:17,584 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:37,640 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:38,423 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:47:42,536 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:47:43,345 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:47:46,486 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:48:25,654 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:48:27,183 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:48:37,262 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:48:37,727 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:48:38,088 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:49:33,731 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:49:34,428 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:49:38,292 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:49:48,845 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:49:49,283 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:51:02,998 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:51:03,289 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:51:10,113 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:51:10,452 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:51:13,201 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:51:13,994 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:51:18,806 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:51:19,224 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:51:37,240 - app - INFO - Chatbot initialized successfully
+2025-07-17 06:52:25,375 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:26,134 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:28,904 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:29,387 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:57,680 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:58,274 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:52:58,693 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:53:10,052 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:53:10,558 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:53:11,095 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:54:09,200 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:54:09,983 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:54:12,917 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 06:54:13,268 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:30:21,127 - chatbot_core - ERROR - GROQ_API_KEY environment variable is required
+2025-07-17 12:30:21,127 - app - ERROR - Failed to initialize chatbot: Missing GROQ_API_KEY environment variable
+2025-07-17 12:30:21,289 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://130.147.38.81:5000
+2025-07-17 12:30:21,290 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 12:30:21,296 - werkzeug - INFO -  * Restarting with stat
+2025-07-17 12:30:26,507 - app - INFO - Chatbot initialized successfully
+2025-07-17 12:30:26,555 - werkzeug - WARNING -  * Debugger is active!
+2025-07-17 12:30:26,562 - werkzeug - INFO -  * Debugger PIN: 340-365-264
+2025-07-17 12:30:30,532 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:30] "GET / HTTP/1.1" 200 -
+2025-07-17 12:30:30,897 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:30] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-07-17 12:30:31,047 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:31] "GET /static/js/animations.js HTTP/1.1" 200 -
+2025-07-17 12:30:31,072 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:31] "GET /static/js/chat.js HTTP/1.1" 200 -
+2025-07-17 12:30:31,195 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:31] "GET /api/status HTTP/1.1" 200 -
+2025-07-17 12:30:31,659 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-17 12:30:41,672 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:30:43,434 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:30:43,461 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:30:43] "POST /api/chat HTTP/1.1" 200 -
+2025-07-17 12:31:01,192 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:01] "GET /api/status HTTP/1.1" 200 -
+2025-07-17 12:31:03,053 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:03,784 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:04,729 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:04,745 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:04] "POST /api/chat HTTP/1.1" 200 -
+2025-07-17 12:31:12,603 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:13,402 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:14,115 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:14,128 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:14] "POST /api/chat HTTP/1.1" 200 -
+2025-07-17 12:31:27,320 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:28,469 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:28,488 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:28] "POST /api/chat HTTP/1.1" 200 -
+2025-07-17 12:31:30,920 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:31,210 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:31] "GET /api/status HTTP/1.1" 200 -
+2025-07-17 12:31:31,653 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 12:31:31,671 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:31] "POST /api/select-problem HTTP/1.1" 200 -
+2025-07-17 12:31:41,057 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 12:31:41] "POST /api/clear HTTP/1.1" 200 -
+2025-07-17 13:27:53,145 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-17 13:27:53,146 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 13:27:53,149 - werkzeug - INFO -  * Restarting with stat
+2025-07-17 13:27:56,297 - werkzeug - WARNING -  * Debugger is active!
+2025-07-17 13:27:56,300 - werkzeug - INFO -  * Debugger PIN: 340-365-264
+2025-07-17 13:28:00,095 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:00] "GET / HTTP/1.1" 200 -
+2025-07-17 13:28:00,284 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:00] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-17 13:28:00,285 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:00] "GET /static/script.js HTTP/1.1" 200 -
+2025-07-17 13:28:11,572 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:13,897 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:13,902 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:13] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:28:27,890 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:28,654 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:29,463 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:29,482 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:29] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:28:47,115 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:28:47,131 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:28:47] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:29:04,581 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:29:05,700 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:29:06,494 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:29:06,507 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:29:06] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:29:18,944 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:29:19,760 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:29:19,772 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:29:19] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:30:54,107 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:30:55,314 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:30:56,117 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:30:56,133 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:30:56] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:31:03,746 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:04,362 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:04,379 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:31:04] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:31:14,140 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:15,220 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:15,958 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:15,974 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:31:15] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:31:30,474 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:31,102 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:31,120 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:31:31] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:31:56,110 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:57,262 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:58,029 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:31:58,048 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:31:58] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:32:06,812 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:32:07,582 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:32:07,595 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:32:07] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:37:41,127 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-17 13:37:41,128 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 13:37:41,130 - werkzeug - INFO -  * Restarting with stat
+2025-07-17 13:37:44,175 - werkzeug - WARNING -  * Debugger is active!
+2025-07-17 13:37:44,178 - werkzeug - INFO -  * Debugger PIN: 340-365-264
+2025-07-17 13:37:46,995 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:37:46] "GET / HTTP/1.1" 200 -
+2025-07-17 13:37:47,173 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:37:47] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-17 13:37:47,180 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:37:47] "GET /static/script.js HTTP/1.1" 200 -
+2025-07-17 13:37:59,711 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:02,692 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:02,710 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:02] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:38:05,241 - __main__ - INFO - Conversation state has been reset by the user.
+2025-07-17 13:38:05,242 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:05] "POST /reset HTTP/1.1" 200 -
+2025-07-17 13:38:12,680 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:13,436 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:14,154 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:14,171 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:14] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:38:15,554 - __main__ - INFO - Conversation state has been reset by the user.
+2025-07-17 13:38:15,556 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:15] "POST /reset HTTP/1.1" 200 -
+2025-07-17 13:38:35,315 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:36,269 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:37,077 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:37,093 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:37] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:38:54,767 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:55,491 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:38:55,507 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:38:55] "POST /chat HTTP/1.1" 200 -
+2025-07-17 13:39:07,915 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 13:39:07,935 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 13:39:07] "POST /chat HTTP/1.1" 200 -
