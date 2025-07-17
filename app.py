@@ -328,5 +328,5 @@ def reset_chat():
 
 if __name__ == "__main__":
     if not os.environ.get("GROQ_API_KEY"): print("FATAL ERROR: GROQ_API_KEY not set.")
-    else: app.run(debug=True, port=5000)
+    else: app.run(host='0.0.0.0',debug=True, port=5000)
 
